@@ -15,6 +15,16 @@ This site provides an accessible, web‑friendly version of the project and link
 ## 📄 Full Whitepaper
 
 You can read the complete whitepaper here:
+## The 8‑Currency Ecosystem (K₈ Topology)
+
+![K8 Topology](./images/k8-topology.png)
+
+---
+
+## Risk Distribution Across 28 Pairs
+
+![Risk Distribution](./images/risk_distribution_28_pairs_corrected.png)
+
 
 👉 **[RF‑FXTTS Whitepaper (Markdown)](./whitepaper/RF-FXTTS-Whitepaper.md)**
 
