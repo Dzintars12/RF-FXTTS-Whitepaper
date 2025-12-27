@@ -31,6 +31,8 @@ The model describes how pressure, energy and deformation propagate through this 
 
 📘 **EA Documentation:** [RF‑FXTTS Expert Advisor Documentation](EA_Documentation.md)
 
+📄 **EA Source Code:** [RSI_Trend.mq4](EA/RSI_Trend.mq4)
+
 ## Expert Advisor (EA)
 
 This project includes a practical MetaTrader 4 Expert Advisor (EA) that demonstrates how structural principles can be applied within an execution architecture.
