@@ -26,7 +26,7 @@ You can read the complete whitepaper here:
 ## 📘 EA Documentation
 👉 [RF‑FXTTS Expert Advisor Documentation](./EA_Documentation.md)
 
----
+📄 EA Source Code: [RSI_Trend.mq4](./EA/RSI_Trend.mq4)
 
 ## 🧠 What is RF‑FXTTS?
 
