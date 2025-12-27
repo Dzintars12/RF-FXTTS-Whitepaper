@@ -27,6 +27,7 @@ You can read the complete whitepaper here:
 
 
 
+
 👉 **[RF‑FXTTS Whitepaper (Markdown)](./whitepaper/RF-FXTTS-Whitepaper.md)**
 
 ---
