@@ -46,6 +46,22 @@ This perspective reveals several structural properties:
 - **Global Cohesion**  
   The FX market behaves as a single organism. Local movements are expressions of global structural dynamics, not isolated events.
 
+---
+
+### **A simple structural example**
+
+To ground this abstraction, consider a common real‑world situation:
+
+When **USDJPY accelerates sharply upward** while **EURUSD remains flat**, the system interprets this not as two unrelated events, but as:
+
+- a **local deformation** inside the USD loop,  
+- which forces pressure into EURJPY (the structural connection between EUR and JPY through USD),  
+- creating a predictable correlation displacement pattern across the K₈ graph.
+
+This is not a trading signal — it is a structural illustration of how pressure propagates.
+
+---
+
 By modeling the FX market as a K₈ ecosystem, RF‑FXTTS establishes a structural foundation for understanding how pressure flows, how cycles form, and how symmetry is restored. This topological perspective is essential for interpreting the market’s behavior and forms the basis for the subsequent components of the RF‑FXTTS architecture.
 
 ---
@@ -77,7 +93,49 @@ The toroidal structure exhibits several key properties:
 
 This toroidal substructure explains why USD pairs often lead the market, why cross‑pairs respond with delay or amplification, and why cycles of imbalance and restoration emerge with rhythmic consistency.
 
-Understanding the USD torus is therefore essential for interpreting
+Understanding the USD torus is therefore essential for interpreting the flow of pressure, anticipating structural deformation, and identifying where the ecosystem is within its cycle of symmetry restoration.
+
+---
+
+# 4. Pressure and Energy Flow Across the K₈ Structure
+
+In the RF‑FXTTS framework, the foreign exchange market is understood as a dynamic system in which pressure, imbalance and structural deformation propagate across the 28 edges of the K₈ ecosystem. These flows are not metaphorical — they represent measurable shifts in volatility, correlation and liquidity distribution that arise from macroeconomic forces and internal structural tension.
+
+Because the FX market is a closed system, any pressure introduced into one part of the network must be absorbed and redistributed across the entire structure. There is no external outlet. This creates a continuous cycle of deformation and restoration that governs the rhythm of the market.
+
+Pressure flow exhibits several fundamental properties:
+
+- **Non‑Locality**  
+  Movements in one currency pair cannot remain isolated. A deformation in EURUSD affects EURJPY, USDJPY, EURGBP and all related cross‑pairs through correlation displacement. Local events produce global consequences.
+
+- **Directional Neutrality**  
+  Pressure does not imply directional bias. The system does not “prefer” up or down — it responds to imbalance by redistributing energy until symmetry is restored. This is why RF‑FXTTS focuses on cycle completion rather than prediction.
+
+- **Propagation Through Structural Pathways**  
+  Pressure flows along the edges of the K₈ graph. Some pathways are direct (e.g., EURUSD → USDJPY → EURJPY), while others are indirect and require multiple steps. The structure of these pathways determines how quickly and intensely deformation spreads.
+
+- **Accumulation and Release**  
+  Pressure can accumulate within specific substructures — most notably the USD torus — before being released into the broader ecosystem. These releases create observable volatility cycles that can be measured and traded.
+
+- **Symmetry Seeking Behavior**  
+  The system naturally tends toward equilibrium. When pressure becomes unevenly distributed, the market responds with movements that restore structural balance. This process mirrors the mathematical behavior of Ricci flow.
+
+---
+
+### **A second simple structural example**
+
+If **GBPUSD drops sharply** while **USDCHF rises**, the system does not treat these as two unrelated moves.  
+Instead, it interprets them as:
+
+- a **pressure concentration** inside the USD torus,  
+- which forces redistribution into GBPCHF and EURCHF,  
+- creating a predictable deformation–propagation–restoration sequence across the K₈ graph.
+
+Again — this is not a trading signal, but a structural illustration of how the ecosystem behaves.
+
+---
+
+Understanding pressure and energy flow is essential for interpreting the market’s internal mechanics. It reveals why volatility clusters, why correlations shift, and why cycles emerge with rhythmic consistency. More importantly, it provides the structural foundation for the RF‑FXTTS trading architecture, which identifies where the ecosystem is within its deformation and restoration cycle.
 
 # 5. Ricci Flow Analogy and Structural Rebalancing
 
@@ -102,7 +160,7 @@ The Ricci flow analogy provides a powerful lens for understanding this behavior:
 - **Cycle Formation**  
   The interplay between deformation and restoration creates rhythmic cycles. These cycles are not arbitrary patterns but expressions of the system’s attempt to minimize structural tension — just as Ricci flow smooths curvature irregularities.
 
-The Ricci flow analogy transforms the FX market from a collection of price charts into a dynamic geometric system. It reveals that volatility is not noise but the release of accumulated pressure, and that market cycles are the natural rhythm of structural rebalancing. This perspective forms the mathematical foundation for the RF‑FXTTS trading architecture, which identifies and trades the phases of this continuous flow.
+This analogy transforms the FX market from a collection of price charts into a dynamic geometric system. It reveals that volatility is not noise but the release of accumulated pressure, and that market cycles are the natural rhythm of structural rebalancing. This perspective forms the mathematical foundation for the RF‑FXTTS trading architecture.
 
 ---
 
@@ -116,7 +174,7 @@ The architecture consists of three core components:
   The system measures structural imbalance across the 28 edges of the K₈ graph. Imbalance manifests as pressure concentration, correlation displacement and volatility clustering. These signals indicate that the ecosystem has entered a deformation phase.
 
 - **Cycle Positioning**  
-  Once deformation is detected, the system determines where the market is within its rebalancing cycle. Early‑phase deformation, mid‑cycle redistribution and late‑cycle symmetry restoration each exhibit distinct structural signatures. RF‑FXTTS positions accordingly, aligning trades with the natural flow of the ecosystem.
+  Once deformation is detected, the system determines where the market is within its rebalancing cycle. Early‑phase deformation, mid‑cycle propagation and late‑cycle symmetry restoration each exhibit distinct structural signatures. RF‑FXTTS positions accordingly, aligning trades with the natural flow of the ecosystem.
 
 - **Symmetry Restoration Alignment**  
   As the system moves toward equilibrium, pressure dissipates and structural symmetry increases. RF‑FXTTS aligns with this restoration process, capturing the transition from imbalance to balance. This approach is inherently antifragile: it benefits from disorder while avoiding the need for prediction.
@@ -199,8 +257,6 @@ The following principles define the system’s design:
 
 These principles ensure that RF‑FXTTS remains stable, adaptive and resilient across different market regimes. By grounding the system in structural behavior rather than prediction, the architecture avoids the pitfalls of traditional trading methodologies and aligns with the natural dynamics of the FX ecosystem.
 
-This practical foundation prepares the way for the final components of the whitepaper: the formal specification of signals, execution logic and system behavior.
-
 ---
 
 # 9. Structural Signals and Measurement Framework
@@ -231,33 +287,99 @@ These structural signals form the foundation of the RF‑FXTTS trading logic. Th
 
 ---
 
+# **Mapping Theory to Execution**  
+### *(New Integrative Section)*
+
+RF‑FXTTS converts structural theory into practical execution through a clear three‑step mapping:
+
+### **1. Structural State → Cycle Phase**
+The system first interprets the ecosystem’s condition using pressure, symmetry and correlation displacement.  
+These measurements determine which of the four phases the market is currently in:
+
+- Deformation  
+- Propagation  
+- Restoration  
+- Symmetry  
+
+This step transforms raw structural data into a meaningful classification.
+
+### **2. Cycle Phase → Positioning Intent**
+Each phase implies a different positioning posture:
+
+- **Deformation:** prepare, small exposure  
+- **Propagation:** hold, allow pressure to spread  
+- **Restoration:** reduce exposure as symmetry returns  
+- **Symmetry:** flat or minimal exposure  
+
+This step defines *intent*, not direction.
+
+### **3. Positioning Intent → Execution**
+Execution is simply the mechanical expression of structural alignment:
+
+- The system enters when tension rises  
+- Holds while tension spreads  
+- Exits when tension resolves  
+
+No prediction.  
+No directional conviction.  
+Only structural alignment.
+
+This mapping provides the conceptual bridge between topological theory and practical trading behavior.
+
+---
+
 # 10. Execution Logic and Positioning Framework
 
 The execution logic of RF‑FXTTS is built on the principle of structural alignment. The system does not predict direction or attempt to forecast future price movements. Instead, it positions according to the ecosystem’s current structural state and its natural trajectory toward symmetry restoration.
 
+---
+
+## **Principle‑Level Entry and Exit Logic**  
+*(Integrated clarity for investors)*
+
+RF‑FXTTS enters and exits positions based on structural conditions, not price patterns:
+
+- **Entry** occurs when the system detects that deformation has begun and pressure is propagating through the K₈ structure.  
+  This means:  
+  - symmetry has broken,  
+  - pressure is concentrated,  
+  - correlation displacement is emerging.
+
+- **Exit** occurs when symmetry begins to restore.  
+  This means:  
+  - pressure is dissipating,  
+  - correlations are re‑aligning,  
+  - volatility is compressing.
+
+This is not directional prediction — it is structural timing.
+
+---
+
+## **Detailed Execution Framework**
+
 The positioning framework consists of three core components:
 
-- **Entry Logic (Structural Alignment Entry)**  
-  Entries occur when the system detects that the ecosystem has entered a deformation phase and that pressure is beginning to propagate through the K₈ structure. The goal is not to predict the direction of the move, but to align with the structural imbalance that is already present.  
-  Entry conditions include:  
-  - High pressure  
-  - Broken symmetry  
-  - Correlation displacement  
-  - Early‑phase deformation signatures  
+### **1. Entry Logic (Structural Alignment Entry)**  
+Entries occur when the ecosystem transitions from stability into tension.  
+Entry conditions include:  
+- High pressure  
+- Broken symmetry  
+- Correlation displacement  
+- Early‑phase deformation signatures  
 
-- **Position Management (Cycle‑Aligned Positioning)**  
-  As the ecosystem moves through the propagation and restoration phases, positions are managed according to structural signals rather than price action.  
-  - During propagation, positions are held as pressure spreads across the network.  
-  - During restoration, positions are gradually reduced as symmetry increases.  
-  - During symmetry, exposure is minimized or closed entirely.  
+### **2. Position Management (Cycle‑Aligned Positioning)**  
+As the ecosystem moves through the propagation and restoration phases, positions are managed according to structural signals rather than price action.  
+- During propagation, positions are held as pressure spreads across the network.  
+- During restoration, positions are gradually reduced as symmetry increases.  
+- During symmetry, exposure is minimized or closed entirely.  
 
-- **Exit Logic (Symmetry Restoration Exit)**  
-  Exits occur when the system detects that the ecosystem is transitioning into the symmetry phase.  
-  Exit conditions include:  
-  - Pressure declines  
-  - Correlations re‑align  
-  - Volatility compresses  
-  - Symmetry metrics rise  
+### **3. Exit Logic (Symmetry Restoration Exit)**  
+Exits occur when the system detects that the ecosystem is transitioning into the symmetry phase.  
+Exit conditions include:  
+- Pressure declines  
+- Correlations re‑align  
+- Volatility compresses  
+- Symmetry metrics rise  
 
 The execution logic is inherently antifragile:
 
