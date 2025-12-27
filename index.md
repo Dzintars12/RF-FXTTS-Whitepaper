@@ -50,25 +50,20 @@ This creates a **prediction‑free**, antifragile trading architecture based on 
 
 ## Repository Structure
 
-```text
-RF-FXTTS-Whitepaper/
-│
-├── EA/
-│   └── RSI_Trend.mq4                 # Expert Advisor source code
-│
-├── images/                           # Diagrams and illustrations used in documentation
-│
-├── whitepaper/
-│   └── RF-FXTTS-Whitepaper.md        # Full theoretical whitepaper
-│
-├── EA_Documentation.md               # Full EA technical documentation
-├── index.md                          # GitHub Pages main landing page
-├── README.md                         # Project overview
-└── LICENSE                           # License information
+- **EA/**
+  - `RSI_Trend.mq4` — Expert Advisor source code
 
+- **images/**  
+  Diagrams and illustrations used in documentation
 
+- **whitepaper/**
+  - `RF-FXTTS-Whitepaper.md` — Full theoretical whitepaper
 
----
+- `EA_Documentation.md` — Full EA technical documentation  
+- `index.md` — GitHub Pages landing page  
+- `README.md` — Project overview  
+- `LICENSE` — License information
+
 
 ## 🌐 About the Author
 
