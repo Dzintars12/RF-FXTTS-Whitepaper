@@ -19,13 +19,6 @@ You can read the complete whitepaper here:
 
 ![K8 Topology](./images/k8-topology.png)
 
----
-
-## Risk Distribution Across 28 Pairs
-
-![Risk Distribution](./images/risk_distribution_28_pairs_corrected.png)
-
-
 
 
 👉 **[RF‑FXTTS Whitepaper (Markdown)](./whitepaper/RF-FXTTS-Whitepaper.md)**
@@ -33,6 +26,10 @@ You can read the complete whitepaper here:
 ---
 
 ## 🧠 What is RF‑FXTTS?
+
+## Risk Distribution Across 28 Pairs
+
+![Risk Distribution](./images/risk_distribution_28_pairs_corrected.png)
 
 RF‑FXTTS models the FX market not as 28 isolated currency pairs, but as a **closed 8‑currency ecosystem** — a complete graph (K₈) with 28 structural edges.
 
