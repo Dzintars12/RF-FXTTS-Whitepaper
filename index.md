@@ -15,13 +15,10 @@ This site provides an accessible, web‑friendly version of the project and link
 ## 📄 Full Whitepaper
 
 You can read the complete whitepaper here:
-## The 8‑Currency Ecosystem (K₈ Topology)
-
-![K8 Topology](./images/k8-topology.png)
-
-
-
 👉 **[RF‑FXTTS Whitepaper (Markdown)](./whitepaper/RF-FXTTS-Whitepaper.md)**
+
+## The 8‑Currency Ecosystem (K₈ Topology)
+![K8 Topology](./images/k8-topology.png)
 
 ## 📘 EA Documentation
 👉 [RF‑FXTTS Expert Advisor Documentation](./EA_Documentation.md)
