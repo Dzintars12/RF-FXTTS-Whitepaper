@@ -1,4 +1,5 @@
-Abstract
+#Abstract
+
 The Ricci Flow FX Topological Trading System (RF‑FXTTS) introduces a structural and ecosystem‑based model of the foreign exchange market. 
 Instead of treating currency pairs as isolated instruments, RF‑FXTTS models the FX market as a closed 8‑currency system — a complete graph of 28 interconnected relationships forming a simply‑connected topological space.
 
@@ -8,7 +9,8 @@ RF‑FXTTS describes how this deformation propagates, how the system redistribut
 
 The trading architecture derived from this model focuses not on directional prediction, but on cycle completion, symmetry restoration and antifragility. RF‑FXTTS proposes a new paradigm for understanding and engaging with FX dynamics — one grounded in topology, systemic behavior and the mathematics of structural flow.
 
-1. Introduction
+1) Introduction
+
 The foreign exchange market is traditionally interpreted through a linear and fragmented lens: 
 each currency pair is treated as an isolated instrument, each chart as an independent narrative, 
 and each price movement as a localized event. This perspective has shaped decades of trading 
@@ -41,7 +43,7 @@ the ecosystem is in its cycle of deformation and restoration, and positions acco
 By shifting the focus from isolated price action to systemic behavior, RF‑FXTTS offers a new 
 paradigm for understanding and engaging with the foreign exchange market.
 
-2. The 8‑Currency Ecosystem (K₈ Topology)
+2) The 8‑Currency Ecosystem (K₈ Topology)
 
    The foreign exchange market can be represented as a complete graph of eight major currencies, 
 forming a K₈ topological structure. Each currency is modeled as a node, and each of the 28 
@@ -82,9 +84,9 @@ understanding how pressure flows, how cycles form, and how symmetry is restored.
 perspective is essential for interpreting the market’s behavior and forms the basis for the 
 subsequent components of the RF‑FXTTS architecture.
 
-3. USD‑Centric Toroidal Substructure
+3) USD‑Centric Toroidal Substructure
 
-4. Within the global K₈ topology, the seven USD major pairs form a distinct toroidal 
+ Within the global K₈ topology, the seven USD major pairs form a distinct toroidal 
 substructure embedded inside the spherical ecosystem. This torus represents the dominant 
 flow loop of the FX market: a closed cycle of pressure, liquidity and structural influence 
 that originates from the central role of the US dollar in global finance.
@@ -128,7 +130,8 @@ Understanding the USD torus is therefore essential for interpreting the flow of 
 anticipating structural deformation, and identifying where the ecosystem is within its 
 cycle of symmetry restoration.
 
-4. Pressure and Energy Flow Across the K₈ Structure
+4) Pressure and Energy Flow Across the K₈ Structure
+
 In the RF‑FXTTS framework, the foreign exchange market is understood as a dynamic system in 
 which pressure, imbalance and structural deformation propagate across the 28 edges of the K₈ 
 ecosystem. These flows are not metaphorical — they represent measurable shifts in volatility, 
@@ -172,6 +175,8 @@ mechanics. It reveals why volatility clusters, why correlations shift, and why c
 with rhythmic consistency. More importantly, it provides the structural foundation for the 
 RF‑FXTTS trading architecture, which identifies where the ecosystem is within its deformation 
 and restoration cycle.
+
+5) Ricci Flow Analogy and Structural Rebalancing
 The RF‑FXTTS framework uses the analogy of Ricci flow to describe how the FX market absorbs 
 pressure, disperses deformation and restores structural symmetry over time. In differential 
 geometry, Ricci flow smooths out curvature irregularities on a manifold by redistributing 
@@ -216,6 +221,7 @@ dynamic geometric system. It reveals that volatility is not noise but the releas
 accumulated pressure, and that market cycles are the natural rhythm of structural 
 rebalancing. This perspective forms the mathematical foundation for the RF‑FXTTS trading 
 architecture, which identifies and trades the phases of this continuous flow.
+
 
 6) The RF‑FXTTS Trading Architecture
 
