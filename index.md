@@ -23,6 +23,9 @@ You can read the complete whitepaper here:
 
 👉 **[RF‑FXTTS Whitepaper (Markdown)](./whitepaper/RF-FXTTS-Whitepaper.md)**
 
+## 📘 EA Documentation
+👉 [RF‑FXTTS Expert Advisor Documentation](./EA_Documentation.md)
+
 ---
 
 ## 🧠 What is RF‑FXTTS?
