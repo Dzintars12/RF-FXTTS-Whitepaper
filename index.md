@@ -50,6 +50,7 @@ This creates a **prediction‑free**, antifragile trading architecture based on 
 
 ## Repository Structure
 
+```text
 RF-FXTTS-Whitepaper/
 │
 ├── EA/
@@ -61,12 +62,10 @@ RF-FXTTS-Whitepaper/
 │   └── RF-FXTTS-Whitepaper.md        # Full theoretical whitepaper
 │
 ├── EA_Documentation.md               # Full EA technical documentation
-│
 ├── index.md                          # GitHub Pages main landing page
-│
 ├── README.md                         # Project overview
-│
 └── LICENSE                           # License information
+
 
 
 ---
