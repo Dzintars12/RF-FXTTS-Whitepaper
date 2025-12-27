@@ -29,3 +29,19 @@ The model describes how pressure, energy and deformation propagate through this 
 
 ## Repository Structure
 
+## Expert Advisor (EA)
+
+This project includes a practical MetaTrader 4 Expert Advisor (EA) that demonstrates how structural principles can be applied within an execution architecture.
+
+The EA implements:
+
+- RSI-based structural filtering  
+- Candlestick pattern recognition (Pin Bar, Engulfing, Morning/Evening Star)  
+- ATR‑based Stop Loss and Take Profit system (3×ATR SL, 9×ATR TP)  
+- Automatic breakeven transfer (6×ATR)  
+- Account‑level equity protection (MaxProfit%, MaxLoss%)  
+- One‑trade‑per‑symbol restriction  
+- On‑chart status panel for real‑time monitoring  
+
+The EA file is located at:
+
