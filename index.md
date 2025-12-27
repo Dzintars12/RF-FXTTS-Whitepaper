@@ -26,6 +26,7 @@ You can read the complete whitepaper here:
 ![Risk Distribution](./images/risk_distribution_28_pairs_corrected.png)
 
 
+
 👉 **[RF‑FXTTS Whitepaper (Markdown)](./whitepaper/RF-FXTTS-Whitepaper.md)**
 
 ---
