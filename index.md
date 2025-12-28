@@ -88,6 +88,7 @@ replacing prediction with structure, and control with viability.
  [The Gospel of Financial Nirvana](https://www.amazon.com/dp/B0FPXN788J)
 
 
+
 ---
 
 Thank you for exploring the RF‑FXTTS paradigm.
