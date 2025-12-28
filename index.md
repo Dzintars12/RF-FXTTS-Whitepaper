@@ -67,6 +67,25 @@ This creates a **prediction‑free**, antifragile trading architecture based on 
 **Dzintars Ansons**  
 Quantitative Trading System Architect  
 Topological & structural FX modeling
+### 📘 Related Work by the Author
+
+This project is conceptually connected to the author's book:
+
+**The Gospel of Financial Nirvana:  
+The Path Out of the Wheel of Financial Samsara**
+
+The book explores how most market participants remain trapped in a recurring cycle of expectation, fear, profit, and loss — a financial analogue of samsara.  
+Its core message aligns with the RF‑FXTTS paradigm:
+
+- prediction cannot control the market  
+- errors are inevitable and structurally necessary  
+- clarity and boundaries matter more than forecasts  
+
+The RF‑FXTTS ecosystem translates these principles into practice —  
+replacing prediction with structure, and control with viability.
+
+📘 Amazon:  
+https://www.amazon.com/Gospel-Financial-Nirvana-Wheel-Samsara-ebook/dp/B0FPXN788J
 
 ---
 
