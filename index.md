@@ -85,7 +85,7 @@ The RF‑FXTTS ecosystem translates these principles into practice —
 replacing prediction with structure, and control with viability.
 
 🔷 Amazon:
-[The Gospel of Financial Nirvana](https://www.amazon.com/dp/B08R3X9Q8T)
+[The Gospel of Financial Nirvana]([https://www.amazon.com/dp/B08R3X9Q8T](https://www.amazon.com/dp/B0FPXN788J?ref_=cm_sw_r_cp_ud_dp)
 
 ---
 
