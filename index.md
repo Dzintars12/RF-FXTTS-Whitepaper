@@ -84,10 +84,8 @@ Its core message aligns with the RF‑FXTTS paradigm:
 The RF‑FXTTS ecosystem translates these principles into practice —  
 replacing prediction with structure, and control with viability.
 
-📘 Amazon:  
-[The Gospel of Financial Nirvana](https://www.amazon.com/Gospel-Financial-Nirvana-Wheel-Samsara-ebook/dp/B0FPXN788J)
-
-
+🔷 Amazon:
+[The Gospel of Financial Nirvana](https://www.amazon.com/dp/B08R3X9Q8T)
 
 ---
 
