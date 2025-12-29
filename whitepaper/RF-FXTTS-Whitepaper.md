@@ -44,7 +44,7 @@ For scholars exploring the application of geometric flows, network topology and 
 Traders Seeking a Discipline‑Based, Non‑Predictive Framework
 For individuals who wish to step outside the emotional cycle of fear, greed and reaction. RF‑FXTTS replaces prediction with structural alignment, offering a clear, repeatable and psychologically stable approach to market engagement.
 
-# 2. The 8‑Currency Ecosystem (K₈ Topology)
+# 1. The 8‑Currency Ecosystem (K₈ Topology)
 
 The foreign exchange market can be represented as a complete graph of eight major currencies, forming a K₈ topological structure. Each currency is modeled as a node, and each of the 28 possible currency pairs represents an edge that transmits pressure, deformation and correlation across the system.
 
@@ -86,7 +86,7 @@ By modeling the FX market as a K₈ ecosystem, RF‑FXTTS establishes a structur
 
 ---
 
-# 3. USD‑Centric Toroidal Substructure
+# 2. USD‑Centric Toroidal Substructure
 
 Within the global K₈ topology, the seven USD major pairs form a distinct toroidal substructure embedded inside the spherical ecosystem. This torus represents the dominant flow loop of the FX market: a closed cycle of pressure, liquidity and structural influence that originates from the central role of the US dollar in global finance.
 
@@ -117,7 +117,7 @@ Understanding the USD torus is therefore essential for interpreting the flow of 
 
 ---
 
-# 4. Pressure and Energy Flow Across the K₈ Structure
+# 3. Pressure and Energy Flow Across the K₈ Structure
 
 In the RF‑FXTTS framework, the foreign exchange market is understood as a dynamic system in which pressure, imbalance and structural deformation propagate across the 28 edges of the K₈ ecosystem. These flows are not metaphorical — they represent measurable shifts in volatility, correlation and liquidity distribution that arise from macroeconomic forces and internal structural tension.
 
@@ -157,7 +157,7 @@ Again — this is not a trading signal, but a structural illustration of how the
 
 Understanding pressure and energy flow is essential for interpreting the market’s internal mechanics. It reveals why volatility clusters, why correlations shift, and why cycles emerge with rhythmic consistency. More importantly, it provides the structural foundation for the RF‑FXTTS trading architecture, which identifies where the ecosystem is within its deformation and restoration cycle.
 
-# 5. Ricci Flow Analogy and Structural Rebalancing
+# 4. Ricci Flow Analogy and Structural Rebalancing
 
 The RF‑FXTTS framework uses the analogy of Ricci flow to describe how the FX market absorbs pressure, disperses deformation and restores structural symmetry over time. In differential geometry, Ricci flow smooths out curvature irregularities on a manifold by redistributing curvature until the structure becomes uniform. The process is continuous, dynamic and self‑correcting.
 
@@ -184,7 +184,7 @@ This analogy transforms the FX market from a collection of price charts into a d
 
 ---
 
-# 6. The RF‑FXTTS Trading Architecture
+# 5. The RF‑FXTTS Trading Architecture
 
 The RF‑FXTTS trading architecture is built on the principle that the FX market is a structural, not directional, system. Instead of attempting to predict future price movements, the system identifies where the K₈ ecosystem is within its continuous cycle of deformation and symmetry restoration. Trading decisions are derived from the structural state of the network, not from forecasting.
 
@@ -219,7 +219,7 @@ The result is a trading system that is robust, adaptive and inherently antifragi
 
 ---
 
-# 7. Cycle Phases and Market States
+# 6. Cycle Phases and Market States
 
 The RF‑FXTTS framework interprets the FX market as a continuously evolving system that moves through identifiable structural phases. These phases arise naturally from the interplay between pressure accumulation, deformation propagation and symmetry restoration within the K₈ ecosystem. Each phase exhibits distinct characteristics that can be measured, classified and traded.
 
@@ -248,7 +248,7 @@ By identifying the current phase of the cycle, RF‑FXTTS aligns trading decisio
 
 Understanding these phases is essential for interpreting the behavior of the K₈ ecosystem and forms the basis for the practical implementation of the RF‑FXTTS methodology.
 
-# 8. Practical Implementation and System Design Principles
+# 7. Practical Implementation and System Design Principles
 
 The practical implementation of RF‑FXTTS is guided by a set of structural principles that ensure robustness, adaptability and antifragility. The system is not built on prediction, indicators or traditional technical analysis. Instead, it is constructed around the measurement of structural states within the K₈ ecosystem and alignment with the natural flow of deformation and symmetry restoration.
 
@@ -279,7 +279,7 @@ These principles ensure that RF‑FXTTS remains stable, adaptive and resilient a
 
 ---
 
-# 9. Structural Signals and Measurement Framework
+# 8. Structural Signals and Measurement Framework
 
 The RF‑FXTTS methodology relies on a set of structural signals that quantify the internal state of the K₈ ecosystem. These signals do not attempt to predict future price movements. Instead, they measure deformation, pressure distribution, correlation displacement and symmetry restoration across the 28 edges of the currency network.
 
@@ -348,7 +348,7 @@ This mapping provides the conceptual bridge between topological theory and pract
 
 ---
 
-# 10. Execution Logic and Positioning Framework
+# 9. Execution Logic and Positioning Framework
 
 The execution logic of RF‑FXTTS is built on the principle of structural alignment. The system does not predict direction or attempt to forecast future price movements. Instead, it positions according to the ecosystem’s current structural state and its natural trajectory toward symmetry restoration.
 
@@ -413,7 +413,7 @@ The positioning framework is further supported by dynamic risk management, which
 
 By aligning execution with the structural rhythm of the K₈ ecosystem, RF‑FXTTS achieves a robust, adaptive and prediction‑free trading methodology that thrives in environments of pressure, volatility and structural change.
 
-# 11. Risk Architecture and Antifragile Position Sizing
+# 10. Risk Architecture and Antifragile Position Sizing
 
 The risk architecture of RF‑FXTTS is designed to align with the structural dynamics of the K₈ ecosystem. Instead of relying on fixed stop‑loss distances, static position sizes or traditional volatility filters, the system adjusts exposure according to the ecosystem’s current level of symmetry, pressure and deformation.
 
@@ -450,7 +450,7 @@ This risk architecture is self‑adjusting, structurally grounded, volatility‑
 
 ---
 
-# 12. System Behavior Across Market Regimes
+# 11. System Behavior Across Market Regimes
 
 RF‑FXTTS is designed to operate consistently across all major market regimes. Because the system is grounded in structural dynamics rather than prediction, it adapts naturally to changes in volatility, liquidity and correlation structure. The K₈ ecosystem behaves differently in trending markets, consolidations and macro‑driven shocks — and RF‑FXTTS responds to each regime through its structural measurement framework.
 
@@ -502,7 +502,7 @@ This consistency is what makes the system robust and antifragile. It does not re
 
 ---
 
-# 13. Conclusion: A Structural Paradigm for FX
+# 12. Conclusion: A Structural Paradigm for FX
 
 The RF‑FXTTS framework introduces a fundamentally new way of understanding and engaging with the foreign exchange market. By modeling the FX ecosystem as a closed, simply‑connected K₈ structure governed by pressure flow, deformation cycles and symmetry restoration, the system moves beyond prediction and embraces a structural interpretation of market behavior.
 
