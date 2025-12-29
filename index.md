@@ -20,10 +20,7 @@ You can read the complete whitepaper here:
 ## The 8‑Currency Ecosystem (K₈ Topology)
 ![K8 Topology](./images/k8-topology.png)
 
-## 📘 EA Documentation
-👉 [RF‑FXTTS Expert Advisor Documentation](./EA_Documentation.md)
-
-📄 EA Source Code: [RSI_Trend.mq4](./EA/RSI_Trend.mq4)
+---
 
 ## 🧠 What is RF‑FXTTS?
 
@@ -42,6 +39,13 @@ The system describes:
 - Ricci‑like smoothing cycles  
 
 This creates a **prediction‑free**, antifragile trading architecture based on structural alignment.
+
+---
+
+## 📘 EA Documentation
+👉 [RF‑FXTTS Expert Advisor Documentation](./EA_Documentation.md)
+
+📄 EA Source Code: [RSI_Trend.mq4](./EA/RSI_Trend.mq4)
 
 ---
 
