@@ -537,3 +537,43 @@ RF‑FXTTS is not merely a trading system — it is a structural paradigm for un
 
 This whitepaper establishes the conceptual, mathematical and practical foundations of the RF‑FXTTS methodology. The framework is designed to evolve, adapt and refine itself as new insights emerge, but its core principle remains constant:  
 **the FX market is a structural system, and structure — not prediction — is the key to understanding its behavior.**
+
+---
+
+# FAQ — Frequently Asked Questions
+Is RF‑FXTTS a predictive trading system?
+No. RF‑FXTTS does not attempt to forecast direction. It identifies where the FX ecosystem is within its deformation–restoration cycle and aligns positions with structural flow. The model is structural, not predictive.
+
+## Why model the FX market as an 8‑currency topology?
+Because the eight major currencies form a closed, interconnected system. Every movement in one pair affects all others. A topological model captures this systemic behavior far more accurately than isolated pair‑based analysis.
+
+## Does RF‑FXTTS rely on indicators or traditional technical analysis?
+No. RF‑FXTTS itself does not rely on indicators, patterns or traditional technical analysis. The model is structural: it is based on ecosystem deformation, pressure distribution and symmetry cycles across the 28‑pair topology.
+However, when the framework is implemented in an EA, technical tools such as candle patterns or RSI may be used as execution mechanisms — practical instruments that help the algorithm enter or manage trades in accordance with the structural logic. These tools do not define the system; they simply operationalize it.
+
+## Can RF‑FXTTS be automated?
+Yes. The framework is mathematically defined and can be encoded into algorithmic logic. Automation must respect the system’s structural constraints and risk architecture to remain valid.
+
+## Is this system suitable for discretionary traders?
+Yes. RF‑FXTTS provides a clear structural lens that helps traders avoid emotional decision‑making. It replaces intuition with measurable alignment and reduces the psychological noise common in discretionary trading.
+
+## Does RF‑FXTTS eliminate risk?
+No system eliminates risk. RF‑FXTTS redistributes risk across the ecosystem and aligns exposure with structural flow, reducing unnecessary concentration and improving stability. Risk remains, but it becomes systemic rather than impulsive.
+
+## How does this differ from correlation‑based trading?
+Correlation measures historical co‑movement. RF‑FXTTS measures real‑time structural deformation across the entire network. It is not correlation‑based; it is topology‑based.
+
+## Is the Ricci flow analogy literal?
+No. It is a conceptual and structural analogy that describes how pressure and deformation dissipate across the ecosystem. It provides a mathematical language for understanding systemic behavior, not a direct geometric computation.
+
+## Can RF‑FXTTS be used with any timeframe?
+Yes. The structural relationships exist on all timeframes. Higher timeframes provide clearer deformation cycles, while lower timeframes introduce more noise.
+
+## Is this system suitable for beginners?
+The conceptual model is advanced, but the principles — structure, discipline, alignment — are universally applicable. Beginners may need time to understand the ecosystem view, but the framework ultimately simplifies decision‑making.
+
+## Can this model be used by funds or institutional investors?
+Yes. RF‑FXTTS is transparent, auditable and mathematically grounded, making it suitable for institutional evaluation. It can serve as the foundation for discretionary, systematic or hybrid FX strategies.
+
+## What is the main advantage of RF‑FXTTS?
+It transforms the FX market from a chaotic sequence of isolated movements into a coherent, measurable and structurally interpretable system. This clarity enables disciplined, antifragile engagement.
