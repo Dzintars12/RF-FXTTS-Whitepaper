@@ -8,8 +8,6 @@ RF‑FXTTS describes how this deformation propagates, how the system redistribut
 
 The trading architecture derived from this model focuses not on directional prediction, but on cycle completion, symmetry restoration and antifragility. RF‑FXTTS proposes a new paradigm for understanding and engaging with FX dynamics — one grounded in topology, systemic behavior and the mathematics of structural flow.
 
----
-
 # Introduction
 
 The foreign exchange market is traditionally interpreted through a linear and fragmented lens: each currency pair is treated as an isolated instrument, each chart as an independent narrative, and each price movement as a localized event. This perspective has shaped decades of trading methodology, risk management and market theory — yet it fails to capture the true structural nature of the FX ecosystem.
@@ -24,7 +22,6 @@ The purpose of this whitepaper is to formalize this model, define its structural
 
 By shifting the focus from isolated price action to systemic behavior, RF‑FXTTS offers a new paradigm for understanding and engaging with the foreign exchange market.
 
----
 # Who Is This For?
 
 RF‑FXTTS is intended for professionals, researchers and institutions seeking a structural, non‑predictive and mathematically coherent framework for understanding the foreign exchange market. This model is designed for those who view the FX ecosystem not as a collection of isolated pairs, but as a unified, interconnected structure whose internal tensions, deformations and symmetry cycles can be measured, analyzed and utilized.
@@ -58,7 +55,7 @@ For traders, it offers a path out of the psychological cycle of reaction and int
 
 RF‑FXTTS matters because it transforms the way we see the market —
 not as chaos to be predicted, but as a living system to be understood.
-
+---
 # 1. The 8‑Currency Ecosystem (K₈ Topology)
 
 The foreign exchange market can be represented as a complete graph of eight major currencies, forming a K₈ topological structure. Each currency is modeled as a node, and each of the 28 possible currency pairs represents an edge that transmits pressure, deformation and correlation across the system.
