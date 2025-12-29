@@ -25,23 +25,23 @@ The purpose of this whitepaper is to formalize this model, define its structural
 By shifting the focus from isolated price action to systemic behavior, RF‑FXTTS offers a new paradigm for understanding and engaging with the foreign exchange market.
 
 ---
-# Who Is This For?
+## Who Is This For?
 
 RF‑FXTTS is intended for professionals, researchers and institutions seeking a structural, non‑predictive and mathematically coherent framework for understanding the foreign exchange market. This model is designed for those who view the FX ecosystem not as a collection of isolated pairs, but as a unified, interconnected structure whose internal tensions, deformations and symmetry cycles can be measured, analyzed and utilized.
 
-Quantitative Traders and System Architects
+### Quantitative Traders and System Architects
 For practitioners who require a reproducible, topology‑based approach to market structure. RF‑FXTTS provides a systemic lens for interpreting pressure, alignment and deformation across the 28‑pair ecosystem, enabling disciplined, non‑emotional decision‑making.
 
-Hedge Funds, AIF Managers and Institutional Investors
+### Hedge Funds, AIF Managers and Institutional Investors
 For entities seeking differentiated FX strategies grounded in structural logic rather than prediction. RF‑FXTTS offers a transparent risk architecture, antifragile execution principles and a documented theoretical foundation suitable for institutional evaluation.
 
-Algorithmic Trading Firms and Research Labs
+### Algorithmic Trading Firms and Research Labs
 For teams developing automated systems that require clear, mathematically defined rules. The RF‑FXTTS framework translates naturally into algorithmic logic due to its discrete cycles, structural constraints and ecosystem‑level metrics.
 
-Academics and Researchers in Topology, Geometry and Complex Systems
+### Academics and Researchers in Topology, Geometry and Complex Systems
 For scholars exploring the application of geometric flows, network topology and systemic dynamics in financial environments. RF‑FXTTS provides a novel bridge between mathematical theory and real‑world market behavior.
 
-Traders Seeking a Discipline‑Based, Non‑Predictive Framework
+### Traders Seeking a Discipline‑Based, Non‑Predictive Framework
 For individuals who wish to step outside the emotional cycle of fear, greed and reaction. RF‑FXTTS replaces prediction with structural alignment, offering a clear, repeatable and psychologically stable approach to market engagement.
 
 # 1. The 8‑Currency Ecosystem (K₈ Topology)
