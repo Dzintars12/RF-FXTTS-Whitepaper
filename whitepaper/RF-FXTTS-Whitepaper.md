@@ -41,7 +41,7 @@ For scholars exploring the application of geometric flows, network topology and 
 ### Traders Seeking a Discipline‑Based, Non‑Predictive Framework
 For individuals who wish to step outside the emotional cycle of fear, greed and reaction. RF‑FXTTS replaces prediction with structural alignment, offering a clear, repeatable and psychologically stable approach to market engagement.
 
-# Why This Matters
+# Why This Matters?
 The foreign exchange market is often interpreted through fragmented signals, isolated charts and short‑term narratives. This approach obscures the deeper structure of the system and leaves traders, analysts and institutions vulnerable to noise, emotional bias and unpredictable volatility. RF‑FXTTS addresses this gap by reframing the FX market as a unified, interconnected ecosystem governed by structural flow rather than isolated price action.
 
 Understanding the market as a complete 8‑currency topology reveals dynamics that traditional methods overlook: how pressure accumulates, how deformation propagates, how symmetry breaks and restores, and how the system redistributes energy across all 28 relationships. These structural processes shape every price movement, yet they remain invisible without a framework capable of capturing them.
@@ -55,6 +55,7 @@ For traders, it offers a path out of the psychological cycle of reaction and int
 
 RF‑FXTTS matters because it transforms the way we see the market —
 not as chaos to be predicted, but as a living system to be understood.
+
 ---
 # 1. The 8‑Currency Ecosystem (K₈ Topology)
 
