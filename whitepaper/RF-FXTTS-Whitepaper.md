@@ -25,7 +25,7 @@ The purpose of this whitepaper is to formalize this model, define its structural
 By shifting the focus from isolated price action to systemic behavior, RF‑FXTTS offers a new paradigm for understanding and engaging with the foreign exchange market.
 
 ---
-## Who Is This For?
+# Who Is This For?
 
 RF‑FXTTS is intended for professionals, researchers and institutions seeking a structural, non‑predictive and mathematically coherent framework for understanding the foreign exchange market. This model is designed for those who view the FX ecosystem not as a collection of isolated pairs, but as a unified, interconnected structure whose internal tensions, deformations and symmetry cycles can be measured, analyzed and utilized.
 
